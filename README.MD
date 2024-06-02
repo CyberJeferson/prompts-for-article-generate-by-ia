@@ -48,7 +48,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | O poder da automação nas mídias sociais                                                                                                                                                                                                |
-| conteúdo | Comporte-se como um escritor de artigos Tech backand atendendo as regras baixo:No máximo 5 linhas por blocos de explicação...|
+| conteúdo | Comporte-se como um escritor de artigos Tech backand atendendo as regras baixo, máximo de 5 linhas por blocos de explicação...|
 
 
 Lexica.art：
