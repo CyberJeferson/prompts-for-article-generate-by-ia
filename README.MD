@@ -47,8 +47,12 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | O poder da automação nas mídias sociais                                                                                                                                                                                                |
+| conteúdo | Comporte-se como um escritor de artigos Tech backand atendendo as regras baixo:
+{REGRAS}
+>No máximo 5 linhas por blocos de explicação.
+ Cite exemplos com código usando o python, consumindo 3 API'S mais importantes no bloco[Exemplos de Automação em Redes Sociais].
+> Faça um call to action para as minhas redes sociais Coloque 3 hashtags que façam sentido no bloco [Conclusão].
 
 
 Lexica.art：
